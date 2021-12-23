@@ -1,3 +1,8 @@
 module.exports = {
-    token: "draless"
+    global: {
+        activityName: [
+            "Draless ❤️ Fearless",
+            "Bot Yaptırmak İçin: Dranzy#0973"
+        ]
+    }
 }
