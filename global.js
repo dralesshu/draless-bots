@@ -2,8 +2,8 @@ module.exports = {
     global: {
         voiceChannelID: "923571127140368404",
         activityName: [
-            "Draless ❤️ Fearless",
-            "Bot Yaptırmak İçin: Dranzy#0973"
+            "Dranzy ❤️ Fearless",
+            "Bot Yaptırmak İçin: Dranzy#0973 & ⍫ Fearless#0099"
         ]
     }
 }
